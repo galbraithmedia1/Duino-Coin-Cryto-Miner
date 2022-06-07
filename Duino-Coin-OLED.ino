@@ -1,6 +1,6 @@
-const char *wifi_ssid = "Randy Garn WiFi";
-const char *wifi_password = "prosper123";
-const char *username = "tay8rocker";
+const char *wifi_ssid = "***";
+const char *wifi_password = "***";
+const char *username = "***";
 const char *rig_identifier = "OLED";
 
 #define LED_BUILTIN 2
