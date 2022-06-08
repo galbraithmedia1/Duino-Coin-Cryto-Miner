@@ -8,7 +8,7 @@
 ### 2. Install ESP32 board manager to use ESP32 in Arduino IDE. 
 ### 3. Install necessary libraries 
 
-### Code for OLED:  
+### Code for Miner OLED:  
 Duino-Coin-OLED.ino  -  This code is for the ESP32 that is connected to the OLED screen. It wont be efficent to download this same code to all ESP32s if they are not connected to the OLED. 
 
 ### Code for normal ESP32:
