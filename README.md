@@ -28,6 +28,8 @@ ESP32 : https://www.amazon.com/dp/B086MGH7JV?ref=ppx_yo2ov_dt_b_product_details&
 
 Charging Board TP4056  : https://www.amazon.com/dp/B00LTQU2RK?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
+OLED : https://www.amazon.com/dp/B09T6SJBV5?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
 18650 battery : Lots of options to choose from. Pick a good quality one 👌
 
 Power Bank Battery Charging Module : https://www.amazon.com/Diymore-Lithium-Battery-Charging-Arduino/dp/B0784FPF8J/ref=sr_1_7_sspa?crid=1QAO0MEBKIXQ8&keywords=18650%2Bholder&qid=1654660212&sprefix=18650%2Bholde%2Caps%2C132&sr=8-7-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWEc4MUdSUFVPT1MxJmVuY3J5cHRlZElkPUEwMTg3ODE1MVNNSEQ3UlRRVFkwTiZlbmNyeXB0ZWRBZElkPUEwNzg3MTg2MVZTM0g2WDExSFRKMSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
