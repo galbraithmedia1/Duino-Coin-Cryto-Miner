@@ -24,7 +24,7 @@ ESP32 : https://www.amazon.com/dp/B086MGH7JV?ref=ppx_yo2ov_dt_b_product_details&
 
 5V Fan : https://www.amazon.com/dp/B082X1W7M5?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-.6V Solar Pannel : https://www.amazon.com/dp/B081ZQ95SS?psc=1&ref=ppx_yo2ov_dt_b_product_details
+.6W Solar Pannel : https://www.amazon.com/dp/B081ZQ95SS?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 Charging Board TP4056  : https://www.amazon.com/dp/B00LTQU2RK?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
