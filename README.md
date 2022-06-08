@@ -4,6 +4,8 @@
 
 ### First check out: https://duinocoin.com/
 
+### Video overview : https://www.linkedin.com/posts/taylorgalbraith_solar-crypto-miner-activity-6939736509952462848-VoSy?utm_source=linkedin_share&utm_medium=member_desktop_web
+
  <td><img src="https://user-images.githubusercontent.com/59584919/172526435-1e474e94-578d-4f06-823f-3024ae7ee911.png" width=800 height=533></td>
 
 ### 1. You will need to download the Arduino IDE. 
