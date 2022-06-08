@@ -9,10 +9,10 @@
 ### 3. Install necessary libraries 
 
 ### Code for OLED:  
-The Duino-Coin-OLED.ino ->  code is for the ESP32 that is connected to the OLED screen. It wont be efficent to download this same code to all ESP32s if they are not connected to the OLED. 
+Duino-Coin-OLED.ino  -  This code is for the ESP32 that is connected to the OLED screen. It wont be efficent to download this same code to all ESP32s if they are not connected to the OLED. 
 
 ### Code for normal ESP32:
- ESP32_Code.ino  -> Use this file to run on other ESP32s no connected to OLED
+ESP32_Code.ino  -  Use this file to run on other ESP32s no connected to OLED
 
 ### -> Dunio Miner v5.1.stl : This is the 3d printable file for the case
 
